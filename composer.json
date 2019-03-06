@@ -1,0 +1,7 @@
+{
+    "name": "kelner/test",
+    "description": "just a test package for test packagist",
+    "require": {
+        "mustache/mustache": "^2.12"
+    }
+}
